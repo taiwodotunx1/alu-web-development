@@ -1,0 +1,55 @@
+/* General page styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fafafa;
+  color: #333;
+}
+
+/* Navigation styling */
+header {
+  background-color: #004080;
+  color: white;
+}
+
+header ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  padding: 0.5rem;
+  margin: 0;
+}
+
+header li a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+header li a:hover {
+  text-decoration: underline;
+}
+
+/* Logo styling */
+.logo {
+  font-size: 2rem;
+  margin-right: 1rem;
+}
+
+/* Article and aside styling */
+article {
+  background-color: #ffffff;
+  border-right: 2px solid #ddd;
+}
+
+aside {
+  background-color: #f5f5f5;
+}
+
+/* Footer styling */
+footer {
+  background-color: #004080;
+  color: white;
+  text-align: center;
+  padding: 0.5rem;
+}
+

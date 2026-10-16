@@ -1,0 +1,248 @@
+body{
+    background-image: url(https://tse1.mm.bing.net/th/id/OIP.Ij3dbgoou7Zxg71Bva5QrQHaGt?r=0&rs=1&pid=ImgDetMain&o=7&rm=3);
+}
+header{
+    max-width: 80%
+
+    
+}
+
+#img{
+    width: 167px;
+    height: 30px;
+    object-fit: contain;
+    margin-left: 100%;
+}
+
+.link{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100%;
+    gap: 52px;
+}
+
+.link a{
+   color: white;
+    text-decoration: none;
+    
+}
+
+.school h1{
+    font-size: 120px;
+    color: lightblue;
+    text-align: center;
+}
+
+.school p{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+
+.school button{
+    color: beige;
+    border-radius: 4px;
+    padding: 14px;
+    box-shadow: 0px 2px 20px;
+    color: white;
+    
+
+}
+
+.school1 h2{
+    font-size: 30px;
+    margin-top: 120px;
+    margin-bottom: 70px;
+    text-align: center;
+    color: white;
+    
+}
+
+.quote {
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+   
+}
+
+.quote img{
+    width: 30%;
+    height: 50%;
+}
+
+#name{
+    font-style: bold;
+
+}
+
+#tittle {
+    font-style: italic;
+}
+
+.videos{
+    margin-top: 120px;
+    background-color: white;
+  
+   
+}
+
+.videos h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+.videos h2 span{
+    color: purple;
+}
+
+.video-list{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+    margin: auto;
+    
+}
+
+.video-card{
+    border-radius: 4px;
+
+
+}
+
+.thumb{
+    position: relative;
+
+}
+
+.thumb .play{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 64px;
+    height: 64px;
+
+}
+
+
+.membership{
+    background-color: black;
+    
+}
+
+.membership h1 span{
+    color: purple;
+
+}
+
+.membership h1 {
+    text-align: center;
+    
+    color: white;
+    
+}
+
+.member{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  
+    
+   
+    margin: auto;
+    gap: 50px;
+    
+}
+
+
+.member h2{
+    font-size: 20px;
+    color: white;
+}
+.member p{
+    font-size: 10px;
+    color: white;
+}
+
+
+button{
+    justify-content: center;
+    border-radius: 20px;
+    
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+
+    margin-top: 80px;
+    padding: 10px;
+    background-color: purple;
+    color: white;
+   font-size: 10px;
+
+
+}
+
+.FAQ{
+    background-color: white;
+}
+
+.FAQ h1{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 300;
+}
+
+.text{
+    width: 60%;
+    justify-content: center;
+    margin: auto;
+    display: grid;
+    
+    grid-template-columns: 350px 350px ;
+    
+  
+    gap: 80px 300px;
+   
+}
+
+
+.grid1{
+    width: 350px;
+   
+}
+
+.grid1 p{
+    padding: 20px;
+}
+
+.footer{
+    background-color: black;
+}
+
+.container{
+    width: 60%;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+   
+    margin : auto;
+    padding: 20px;
+   
+}
+
+.smile{
+    margin-right: auto;
+}
+
+
+.copyright{
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    opacity: 0.35;
+    padding: 20px;
+}
